@@ -6,6 +6,4 @@ Mysql Workbench
 
 Pycharm 
 
-Navicat 
-
 Python 
